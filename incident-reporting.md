@@ -17,8 +17,10 @@ Reports of Code of Conduct violations should include as many details as possible
 - Additional context
 - If it is ongoing
 
-The Algolia Community prioritizes marginalized people’s safety over privileged people’s comfort. Our moderators will not act on reports regarding:
-- “Reverse”-isms, including “reverse racism,” “reverse sexism,” and “cisphobia.”
+The Algolia Community prioritizes the inclusion and welcoming of marginalized people.
+
+Our moderators will not act on reports regarding:
+- Good faith and non-malicious conduct whose object is to improve the conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, gender identity, sexual orientation, physical appearance, body size, age or mental or physical disability.
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 - Verbal communication in a tone you don’t find pleasant (try focusing on responding to the content or disengaging instead).
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
