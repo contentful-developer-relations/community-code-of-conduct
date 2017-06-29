@@ -4,7 +4,7 @@ If you experience or witness (or have experienced or have witnessed) violations 
 
 Code of Conduct violations can be reported by:
 
-- Contacting one of the [moderators](./moderators.md) via email, by text or phone call, or in person.
+- Contacting one of the [moderators](./moderators.md) via email, by Twitter, or in person.
 - Communicating with an event organizer, who may themselves be a moderator or will be in contact with a moderator “on call.”
 
 Reports of **Code of Conduct** violations should include as many details as possible, for example:
