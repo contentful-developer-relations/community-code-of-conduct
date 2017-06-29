@@ -1,4 +1,4 @@
-# Contentufl Community Code of Conduct
+# Contentful Community Code of Conduct
 
 The **Contentful Community** and the **Code of Conduct** should govern both our [Slack Community](https://contentful.com/slack) and our [Community Forums](https://contentfulcommunity.com).
 
