@@ -1,13 +1,5 @@
 # Contentful Community Moderators
 
-## Ricardo Alcocer
-
-![Ricardo Alcocer](https://avatars3.githubusercontent.com/u/1271259?v=3&s=100)
-
-Twitter: [@ricardoalcocer](https://twitter.com/ricardoalcocer)
-
-Email: [ricardo@contentful.com](mailto:ricardo@contentful.com)
-
 ## Stefan Judis
 
 ![Stefan Judis](https://avatars1.githubusercontent.com/u/962099?v=3&s=100)
