@@ -23,3 +23,11 @@ Email: [rouven@contentful.com](mailto:rouven@contentful.com)
 Twitter: [@irina_botea](https://twitter.com/irina_botea)
 
 Email: [irina@contentful.com](mailto:irina@contentful.com)
+
+## Shy Ruparel
+
+![Shy Ruparel](https://avatars2.githubusercontent.com/u/1316340?s=100&v=3)
+
+Twitter: [@ShyRuparel](https://twitter.com/shyruparel)
+
+Email: [Shy@contentful.com](mailto:shy@contentful.com)
