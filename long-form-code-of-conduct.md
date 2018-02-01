@@ -101,9 +101,11 @@ Please also note:
 - We will not name harassment victims without their consent. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the **Contentful Community** or the general public.
 
 ### **Code of Conduct** Feedback
-Feedback is always appreciated! You can create an [issue in the Github repository](https://github.com/algolia/community-code-of-conduct/issues).
+Feedback is always appreciated! You can create an [issue in the Github repository](https://github.com/contentful-developer-relations/community-code-of-conduct/issues).
 
 The **Contentful Community Code of Conduct** is a living document. It will grow with the **Contentful Community** to ensure we are providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants.
+
+This Code of Conduct was originally forked from the [Keen IO Community **Code of Conduct**](https://github.com/keen/community-code-of-conduct)
 
 ### Sources
 "Keen IO Community **Code of Conduct**", [https://github.com/keen/community-code-of-conduct](https://github.com/keen/community-code-of-conduct)

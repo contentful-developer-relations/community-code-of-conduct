@@ -7,4 +7,4 @@ The **Contentful Community** is dedicated to providing a safe, inclusive, welcom
 Our **Code of Conduct** exists because of that dedication, and we do not tolerate harassment in any form. See our reporting guidelines [here](./incident-reporting.md). Our full Code of Conduct can be found at this [link](./long-form-code-of-conduct.md).
 
 
-> Shout out to [Algolia](https://github.com/algolia/community-code-of-conduct) for creating the original version of this repo.
+> Shout out to [@tbarn](https://github.com/tbarn) and [Keen IO](https://github.com/keen/community-code-of-conduct) for creating the original version of this repo.
