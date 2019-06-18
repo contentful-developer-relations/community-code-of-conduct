@@ -23,3 +23,11 @@ Email: [irina@contentful.com](mailto:irina@contentful.com)
 Twitter: [@ShyRuparel](https://twitter.com/shyruparel)
 
 Email: [Shy@contentful.com](mailto:shy@contentful.com)
+
+## Amelia Winger-Bearskin
+
+![Amelia Winger-Bearskin](https://avatars0.githubusercontent.com/u/5375725?s=100&v=3)
+
+Twitter: [@ameliawb](https://twitter.com/ameliawb)
+
+Email: [amelia@contentful.com](mailto:amelia@contentful.com)
