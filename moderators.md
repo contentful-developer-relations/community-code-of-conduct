@@ -31,3 +31,12 @@ Email: [Shy@contentful.com](mailto:shy@contentful.com)
 Twitter: [@ameliawb](https://twitter.com/ameliawb)
 
 Email: [amelia@contentful.com](mailto:amelia@contentful.com)
+
+## Sam Gentry
+
+![Sam Gentry](https://pbs.twimg.com/profile_images/579089873140756480/JFAEZZOt_400x400.jpg)
+
+Twitter: [@samgentry_](https://twitter.com/samgentry_)
+
+Email: [sam.gentry@contentful.com](mailto:sam.gentry@contentful.com)
+
