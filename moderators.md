@@ -1,12 +1,12 @@
 # Contentful Community Moderators
 
-## Rouven Weßling
+## Stefan Judis
 
-![Rouven Weßling](https://avatars1.githubusercontent.com/u/628508?v=3&s=100)
+![Stefan Judis](https://avatars1.githubusercontent.com/u/962099?v=3&s=100)
 
-Twitter: [@rouvenwessling](https://twitter.com/rouvenwessling)
+Twitter: [@StefanJudis](https://twitter.com/StefanJudis)
 
-Email: [rouven@contentful.com](mailto:rouven@contentful.com)
+Email: [stefan.judis@contentful.com](mailto:stefan.judis@contentful.com)
 
 ## Irina Botea
 
