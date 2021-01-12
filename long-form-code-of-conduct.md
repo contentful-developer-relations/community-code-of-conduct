@@ -70,8 +70,7 @@ Harassment includes:
 ### Enforcement
 - Participants asked to stop any harassing behavior are expected to comply immediately, even if participants do not agree with or fully acknowledge the behavior being reported.
 - If a participant violates the **Code of Conduct**, community moderators may take any action they deem appropriate to maintaining a welcoming environment for all participants, up to and including expulsion from an event and/or the community and identification of the participant as a violator. If a community moderator is not available at an event, the event organizer should ask violators to leave and then report the situation to community moderators for further deliberation.
-- There will always be at least one moderator “on-call” if no moderators are able to attend an event
-Community moderators and/or event organizers may take action to redress anything designed to, or with the clear impact of, disrupting or making an environment hostile for any participants.
+- There will always be at least one moderator “on-call”. If no moderators are able to attend an event, Community moderators and/or event organizers may take action to redress anything designed to, or with the clear impact of, disrupting or making an environment hostile for any participants.
 - We expect participants to respect the **Code of Conduct** in all **Contentful communities** and at all **Contentful** or **Contentful related events**.
 
 ### Moderators
